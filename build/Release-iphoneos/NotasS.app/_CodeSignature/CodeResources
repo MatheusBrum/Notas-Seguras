@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Default.png</key>
+		<data>
+		Tk/QB2O8/1eyqhJm6RDTPdAC7WU=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		fVXXt9xjS5Le/L0+V+KVr7UEDpM=
+		</data>
+		<key>NotasSViewController.nib</key>
+		<data>
+		3gOn2X0642h+7jPVQFcTd4sy0SQ=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>black-swishes-iphone-wallpaper.jpg</key>
+		<data>
+		3BEL7MPiXqn4w5dFtRhBmsHPsLo=
+		</data>
+		<key>cofre.png</key>
+		<data>
+		bEntGwQptdZ5H29sdibKDFr9ilo=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		9qbXc8KVAxPxexDK1rNPfw+P1ro=
+		</data>
+		<key>icon.png</key>
+		<data>
+		2LyzUJn4gQh9531uEP+RVN2GW04=
+		</data>
+		<key>phanter_graphite_iphone_wallpaper_320x480.jpg</key>
+		<data>
+		5yOHszuJm1PoIiY/TzS2UwFKP/o=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

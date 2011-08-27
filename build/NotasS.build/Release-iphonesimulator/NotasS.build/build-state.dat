@@ -1,0 +1,695 @@
+TNotasS
+v7
+r0
+t278651503.964987
+cCheck dependencies
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist NotasS-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+cCpResource build/Release-iphonesimulator/NotasS.app/cofre.png cofre.png
+cCpResource build/Release-iphonesimulator/NotasS.app/black-swishes-iphone-wallpaper.jpg black-swishes-iphone-wallpaper.jpg
+cCpResource build/Release-iphonesimulator/NotasS.app/icon.png icon.png
+cCpResource build/Release-iphonesimulator/NotasS.app/Default.png Default.png
+cCpResource build/Release-iphonesimulator/NotasS.app/phanter_graphite_iphone_wallpaper_320x480.jpg phanter_graphite_iphone_wallpaper_320x480.jpg
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch.gch NotasS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/NotasS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS normal i386
+cGenerateDSYMFile /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+cTouch /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A6BC18300000000000000EE
+t1248575875
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026DAB0
+t1250040081
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027D510
+t1249267860
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F590000000001670E70
+t1249668953
+s23531120
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSAppDelegate.h
+c000000004AE4576800000000000001DA
+t1256478568
+s474
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSAppDelegate.m
+c000000004AE457680000000000000266
+t1256478568
+s614
+i"NotasSAppDelegate.h"
+i"NotasSViewController.h"
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSViewController.h
+c000000004AF8CB94000000000000037C
+t1257819028
+s892
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSViewController.m
+c000000004AEBAB9400000000000018BC
+t1256958868
+s6332
+i"NotasSViewController.h"
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Default.png
+c000000004AE79CD0000000000000BF6A
+t1256692944
+s49002
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/MainWindow.xib
+c000000004AE457680000000000002443
+t1256478568
+s9283
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasSViewController.xib
+c000000004AEBAA40000000000000ED26
+t1256958528
+s60710
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasS_Prefix.pch
+c000000004AE4576800000000000000B5
+t1256478568
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/black-swishes-iphone-wallpaper.jpg
+c000000004A58D7B10000000000006605
+t1247336369
+s26117
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasS.LinkFileList
+c000000004AEBA68C000000000000017C
+t1256957580
+s380
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o
+t1256958263
+s39680
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o
+t1256958703
+s53244
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o
+t1256957583
+s5912
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app
+t1256958703
+s408
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM
+t1256958703
+s102
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/Default.png
+t1256957581
+s49002
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist
+t1256957580
+s595
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/MainWindow.nib
+t1256957581
+s1102
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+t1256958703
+s26580
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasSViewController.nib
+t1256958703
+s6133
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/PkgInfo
+t1256957580
+s8
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/black-swishes-iphone-wallpaper.jpg
+t1256957581
+s26117
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/cofre.png
+t1256957581
+s39494
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/icon.png
+t1256957581
+s4746
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/phanter_graphite_iphone_wallpaper_320x480.jpg
+t1256957581
+s7489
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/cofre.png
+c000000004AE799E40000000000009A46
+t1256692196
+s39494
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/icon.png
+c000000004AE79BAE000000000000128A
+t1256692654
+s4746
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/main.m
+c000000004AE457680000000000000169
+t1256478568
+s361
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/phanter_graphite_iphone_wallpaper_320x480.jpg
+c000000004A58D7A60000000000001D41
+t1247336358
+s7489
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.h
+c000000004AE4576800000000000001DA
+t1256478568
+s474
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m
+c000000004AE457680000000000000266
+t1256478568
+s614
+i"NotasSAppDelegate.h"
+i"NotasSViewController.h"
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.h
+c000000004AEBA7B5000000000000037C
+t1256957877
+s892
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m
+c000000004AEBAB9400000000000018BC
+t1256958868
+s6332
+i"NotasSViewController.h"
+
+N/Users/MatheusBrum/Desktop/NotasS/Default.png
+c000000004AE79CD0000000000000BF6A
+t1256692944
+s49002
+
+N/Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+c000000004AE457680000000000002443
+t1256478568
+s9283
+
+N/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+c000000004AEBAA40000000000000ED26
+t1256958528
+s60710
+
+N/Users/MatheusBrum/Desktop/NotasS/NotasS_Prefix.pch
+c000000004AE4576800000000000000B5
+t1256478568
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/black-swishes-iphone-wallpaper.jpg
+c000000004A58D7B10000000000006605
+t1247336369
+s26117
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasS.LinkFileList
+c000000004AEBA68C000000000000017C
+t1256957580
+s380
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o
+t1256958263
+s39680
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o
+t1256958703
+s53244
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o
+t1256957583
+s5912
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app
+t1256958703
+s408
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM
+t1256958703
+s102
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/Default.png
+t1256957581
+s49002
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist
+t1256957580
+s595
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/MainWindow.nib
+t1256957581
+s1102
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+t1256958703
+s26580
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasSViewController.nib
+t1256958703
+s6133
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/PkgInfo
+t1256957580
+s8
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/black-swishes-iphone-wallpaper.jpg
+t1256957581
+s26117
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/cofre.png
+t1256957581
+s39494
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/icon.png
+t1256957581
+s4746
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/phanter_graphite_iphone_wallpaper_320x480.jpg
+t1256957581
+s7489
+
+N/Users/MatheusBrum/Desktop/NotasS/cofre.png
+c000000004AE799E40000000000009A46
+t1256692196
+s39494
+
+N/Users/MatheusBrum/Desktop/NotasS/icon.png
+c000000004AE79BAE000000000000128A
+t1256692654
+s4746
+
+N/Users/MatheusBrum/Desktop/NotasS/main.m
+c000000004AE457680000000000000169
+t1256478568
+s361
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/phanter_graphite_iphone_wallpaper_320x480.jpg
+c000000004A58D7A60000000000001D41
+t1247336358
+s7489
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSAppDelegate.h
+c000000004AE4576800000000000001DA
+t1256478568
+s474
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSAppDelegate.m
+c000000004AE457680000000000000266
+t1256478568
+s614
+i"NotasSAppDelegate.h"
+i"NotasSViewController.h"
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSViewController.h
+c000000004AF8CB94000000000000037C
+t1257819028
+s892
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSViewController.m
+c000000004AEBAB9400000000000018BC
+t1256958868
+s6332
+i"NotasSViewController.h"
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Default.png
+c000000004AE79CD0000000000000BF6A
+t1256692944
+s49002
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/MainWindow.xib
+c000000004AE457680000000000002443
+t1256478568
+s9283
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasSViewController.xib
+c000000004AEBAA40000000000000ED26
+t1256958528
+s60710
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasS_Prefix.pch
+c000000004AE4576800000000000000B5
+t1256478568
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/black-swishes-iphone-wallpaper.jpg
+c000000004A58D7B10000000000006605
+t1247336369
+s26117
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasS.LinkFileList
+c000000004AEBA68C000000000000017C
+t1256957580
+s380
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o
+t1256958263
+s39680
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o
+t1256958703
+s53244
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o
+t1256957583
+s5912
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app
+t1256958703
+s408
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM
+t1256958703
+s102
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/Default.png
+t1256957581
+s49002
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist
+t1256957580
+s595
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/MainWindow.nib
+t1256957581
+s1102
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+t1256958703
+s26580
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasSViewController.nib
+t1256958703
+s6133
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/PkgInfo
+t1256957580
+s8
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/black-swishes-iphone-wallpaper.jpg
+t1256957581
+s26117
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/cofre.png
+t1256957581
+s39494
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/icon.png
+t1256957581
+s4746
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/phanter_graphite_iphone_wallpaper_320x480.jpg
+t1256957581
+s7489
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/cofre.png
+c000000004AE799E40000000000009A46
+t1256692196
+s39494
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/icon.png
+c000000004AE79BAE000000000000128A
+t1256692654
+s4746
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/main.m
+c000000004AE457680000000000000169
+t1256478568
+s361
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/phanter_graphite_iphone_wallpaper_320x480.jpg
+c000000004A58D7A60000000000001D41
+t1247336358
+s7489
+
+N/var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-djncqfikzydixhgbafouvdulslap/NotasS_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch.gch
+t1256957582
+s12740048
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-hbpmgdiwwwisjrdfmjgxyphcaydg/NotasS_Prefix.pch.gch
+t2
+s0
+
+NNotasS-Info.plist
+c000000004AECB7830000000000000388
+t1257027459
+s904
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278651503#278651503#0(0"0(0#1#0"2416090432#0"0#
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278651062.915662
+e278651063.011056
+r1
+xCompileC
+xbuild/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o
+x/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m278651062#278651063#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m2416090432#1851"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator -I/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch -c /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSAppDelegate.o0#
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/Classes/NotasSViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278651503.719763
+e278651503.932254
+r1
+xCompileC
+xbuild/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o
+x/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278651503#278651503#0(0"0(0#0#64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m2416090432#1857"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator -I/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch -c /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasSViewController.o0#
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/NotasS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278650382.926026
+e278650383.002698
+r1
+xCompileC
+xbuild/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/NotasS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/MatheusBrum/Desktop/NotasS/main.m278650382#278650383#0(0"0(0#0#40"/Users/MatheusBrum/Desktop/NotasS/main.m2416090432#1817"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator -I/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch -c /Users/MatheusBrum/Desktop/NotasS/main.m -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasSViewController.xib"
+r0
+
+CCompileXIB "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasSViewController.xib"
+r0
+
+CCompileXIB /Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+s278650380.176202
+e278650381.689722
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278650380#278650381#0(0"0(0#0#48"/Users/MatheusBrum/Desktop/NotasS/MainWindow.xib2416090432#466"    cd /Users/MatheusBrum/Desktop/NotasS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/MainWindow.nib /Users/MatheusBrum/Desktop/NotasS/MainWindow.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+s278651503.218818
+e278651503.719406
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+lSLF07#2@35"CompileXIB NotasSViewController.xib278651503#278651503#0(0"0(0#0#58"/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib2416090432#486"    cd /Users/MatheusBrum/Desktop/NotasS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasSViewController.nib /Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib0#
+
+CCpResource build/Release-iphonesimulator/NotasS.app/Default.png Default.png
+s278650381.694609
+e278650381.733464
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NotasS.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png278650381#278650381#0(0"0(0#0#45"/Users/MatheusBrum/Desktop/NotasS/Default.png2416090432#462"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/MatheusBrum/Desktop/NotasS/Default.png /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app0#
+
+CCpResource build/Release-iphonesimulator/NotasS.app/black-swishes-iphone-wallpaper.jpg black-swishes-iphone-wallpaper.jpg
+s278650381.690496
+e278650381.733235
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NotasS.app/black-swishes-iphone-wallpaper.jpg
+xblack-swishes-iphone-wallpaper.jpg
+lSLF07#2@39"Copy black-swishes-iphone-wallpaper.jpg278650381#278650381#0(0"0(0#0#68"/Users/MatheusBrum/Desktop/NotasS/black-swishes-iphone-wallpaper.jpg2416090432#485"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/MatheusBrum/Desktop/NotasS/black-swishes-iphone-wallpaper.jpg /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app0#
+
+CCpResource build/Release-iphonesimulator/NotasS.app/cofre.png cofre.png
+s278650381.689836
+e278650381.733100
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NotasS.app/cofre.png
+xcofre.png
+lSLF07#2@14"Copy cofre.png278650381#278650381#0(0"0(0#0#43"/Users/MatheusBrum/Desktop/NotasS/cofre.png2416090432#460"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/MatheusBrum/Desktop/NotasS/cofre.png /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app0#
+
+CCpResource build/Release-iphonesimulator/NotasS.app/icon.png icon.png
+s278650381.693935
+e278650381.733349
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NotasS.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png278650381#278650381#0(0"0(0#0#42"/Users/MatheusBrum/Desktop/NotasS/icon.png2416090432#459"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/MatheusBrum/Desktop/NotasS/icon.png /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app0#
+
+CCpResource build/Release-iphonesimulator/NotasS.app/phanter_graphite_iphone_wallpaper_320x480.jpg phanter_graphite_iphone_wallpaper_320x480.jpg
+s278650381.696267
+e278650381.733579
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NotasS.app/phanter_graphite_iphone_wallpaper_320x480.jpg
+xphanter_graphite_iphone_wallpaper_320x480.jpg
+lSLF07#2@50"Copy phanter_graphite_iphone_wallpaper_320x480.jpg278650381#278650381#0(0"0(0#0#79"/Users/MatheusBrum/Desktop/NotasS/phanter_graphite_iphone_wallpaper_320x480.jpg2416090432#496"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/MatheusBrum/Desktop/NotasS/phanter_graphite_iphone_wallpaper_320x480.jpg /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app0#
+
+CGenerateDSYMFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS"
+r0
+
+CGenerateDSYMFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM" "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS"
+r0
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+s278651503.949727
+e278651503.962812
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM
+x/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+lSLF07#2@110"GenerateDSYMFile build/Release-iphonesimulator/NotasS.app.dSYM build/Release-iphonesimulator/NotasS.app/NotasS278651503#278651503#0(0"0(0#0#81"/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS2416090432#369"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS -o /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app.dSYM0#
+
+CLd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS" normal i386
+r0
+
+CLd "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS" normal i386
+r0
+
+CLd /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS normal i386
+s278651503.932340
+e278651503.949603
+r1
+xLd
+x/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS
+xnormal
+xi386
+lSLF07#2@86"Link /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS278651503#278651503#0(0"0(0#0#0"2416090432#840"    cd /Users/MatheusBrum/Desktop/NotasS    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator -F/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator -filelist /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/Objects-normal/i386/NotasS.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/NotasS0#
+
+CProcessInfoPlistFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist" NotasS-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist" NotasS-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist NotasS-Info.plist
+s278650380.170750
+e278650380.176132
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist
+xNotasS-Info.plist
+lSLF07#2@25"Process NotasS-Info.plist278650380#278650380#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/NotasS/NotasS-Info.plist2416090432#465"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NotasS-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app/Info.plist0#
+
+CProcessPCH /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-djncqfikzydixhgbafouvdulslap/NotasS_Prefix.pch.gch NotasS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch.gch NotasS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278650382.053577
+e278650382.925937
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch.gch
+xNotasS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile NotasS_Prefix.pch278650382#278650383#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/NotasS/NotasS_Prefix.pch2416090432#1713"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator -I/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Release-iphonesimulator/NotasS.build/DerivedSources -c /Users/MatheusBrum/Desktop/NotasS/NotasS_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-frwbbjpolvfbpbawgvutebaltzxl/NotasS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-hbpmgdiwwwisjrdfmjgxyphcaydg/NotasS_Prefix.pch.gch NotasS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app"
+r0
+
+CTouch "/Users/matheusbrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/build/Release-iphonesimulator/NotasS.app"
+r0
+
+CTouch /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app
+s278651503.962885
+e278651503.964961
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app
+lSLF07#2@80"Touch /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app278651503#278651503#0(0"0(0#0#0"2416090432#269"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/NotasS/build/Release-iphonesimulator/NotasS.app0#
+

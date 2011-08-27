@@ -1,0 +1,8 @@
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: In function '-[NotasSViewController viewDidLoad]':
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:25: warning: assignment makes pointer from integer without a cast
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: In function '-[NotasSViewController okSenha]':
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:37: warning: comparison between pointer and integer
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: In function '-[NotasSViewController textViewDidBeginEditing:]':
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:67: warning: local declaration of 'texto' hides instance variable
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: In function '-[NotasSViewController textViewDidEndEditing:]':
+/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:75: warning: local declaration of 'texto' hides instance variable

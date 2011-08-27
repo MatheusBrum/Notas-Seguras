@@ -1,0 +1,360 @@
+TNotasS
+v7
+r0
+t278281313.143733
+cCheck dependencies
+cCpResource build/Debug-iphoneos/NotasS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/Info.plist NotasS-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch.gch NotasS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/main.o /Users/MatheusBrum/Desktop/NotasS/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSAppDelegate.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSViewController.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004AD63B4B0000000000000110
+t1255553867
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.h
+c000000004AE4576800000000000001DA
+t1256478568
+s474
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m
+c000000004AE457680000000000000266
+t1256478568
+s614
+i"NotasSAppDelegate.h"
+i"NotasSViewController.h"
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.h
+c000000004AE6045700000000000001AB
+t1256588375
+s427
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m
+c000000004AE604DE00000000000005A9
+t1256588510
+s1449
+i"NotasSViewController.h"
+
+N/Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+c000000004AE457680000000000002443
+t1256478568
+s9283
+
+N/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+c000000004AE604DB000000000000768E
+t1256588507
+s30350
+
+N/Users/MatheusBrum/Desktop/NotasS/NotasS_Prefix.pch
+c000000004AE4576800000000000000B5
+t1256478568
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app.dSYM
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/Info.plist
+t1256588512
+s622
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/MainWindow.nib
+t1256588512
+s1102
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/NotasS
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/NotasSViewController.nib
+t1256588512
+s2936
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/PkgInfo
+t1256588512
+s8
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/ResourceRules.plist
+t1256588512
+s485
+
+N/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/embedded.mobileprovision
+t1256588513
+s7182
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent
+t1256588513
+s319
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasS.LinkFileList
+c000000004AE604E00000000000000164
+t1256588512
+s356
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSAppDelegate.o
+t1256588513
+s42068
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSViewController.o
+t2
+s0
+
+N/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/main.o
+t1256588513
+s6532
+
+N/Users/MatheusBrum/Desktop/NotasS/main.m
+c000000004AE457680000000000000169
+t1256478568
+s361
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision
+c000000004AB80B3A0000000000001C0E
+t1253575482
+s7182
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch.gch
+t1256588512
+s7876792
+
+NNotasS-Info.plist
+c000000004AE45768000000000000038D
+t1256478568
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278281312#278281312#0(0"0(0#1#0"2416090432#0"0#
+
+CCodeSign /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app
+r0
+
+CCompileC build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSAppDelegate.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278281312.993127
+e278281313.050038
+r1
+xCompileC
+xbuild/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSAppDelegate.o
+x/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m278281312#278281313#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m2416090432#1683"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch -c /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSAppDelegate.m -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSAppDelegate.o0#
+
+CCompileC build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSViewController.o /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278281313.034915
+e278281313.073128
+r0
+xCompileC
+xbuild/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSViewController.o
+x/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: In function '-[NotasSViewController okSenha]':
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:31: warning: comparison between pointer and integer
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:32: error: stray '#' in program
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:32: error: stray '#' in program
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:32: error: cannot find protocol declaration for 'statements'
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:33: error: expected identifier or '(' before '}' token
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: 'shouldAutorotateToInterfaceOrientation' undeclared (first use in this function)
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: (Each undeclared identifier is reported only once
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: for each function it appears in.)
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: expected ';' before ':' token
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:58: error: expected declaration or statement at end of input
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:58: error: expected declaration or statement at end of input
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: At top level:
+o/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:58: warning: '@end' missing in implementation context
+o{standard input}:291:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L24"
+o{standard input}:291:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:290:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L23"
+o{standard input}:290:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:289:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L22"
+o{standard input}:289:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:288:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L21"
+o{standard input}:288:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:287:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L20"
+o{standard input}:287:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:286:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" minus "L19"
+o{standard input}:286:symbol: "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:285:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L18"
+o{standard input}:285:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:284:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L17"
+o{standard input}:284:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" minus "L16"
+o{standard input}:283:symbol: "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:169:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L11"
+o{standard input}:169:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:168:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L10"
+o{standard input}:168:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:167:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" minus "L9"
+o{standard input}:167:symbol: "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"
+o{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:164:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L6"
+o{standard input}:164:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:163:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"
+o{standard input}:163:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:162:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L4"
+o{standard input}:162:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:161:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L3"
+o{standard input}:161:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:160:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L2"
+o{standard input}:160:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+lSLF07#2@72"Compile /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281313#278281313#0(6881"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: In function '-[NotasSViewController okSenha]':/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:31: warning: comparison between pointer and integer/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:32: error: stray '#' in program/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:32: error: stray '#' in program/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:32: error: cannot find protocol declaration for 'statements'/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:33: error: expected identifier or '(' before '}' token/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: 'shouldAutorotateToInterfaceOrientation' undeclared (first use in this function)/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: (Each undeclared identifier is reported only once/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: for each function it appears in.)/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:35: error: expected ';' before ':' token/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:58: error: expected declaration or statement at end of input/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:58: error: expected declaration or statement at end of input/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m: At top level:/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m:58: warning: '@end' missing in implementation context{standard input}:291:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L24"{standard input}:291:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:290:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L23"{standard input}:290:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:289:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L22"{standard input}:289:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:288:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L21"{standard input}:288:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:287:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L20"{standard input}:287:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:286:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" minus "L19"{standard input}:286:symbol: "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:285:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L18"{standard input}:285:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:284:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L17"{standard input}:284:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" minus "L16"{standard input}:283:symbol: "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:169:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L11"{standard input}:169:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:168:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L10"{standard input}:168:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:167:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" minus "L9"{standard input}:167:symbol: "L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:164:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" minus "L6"{standard input}:164:symbol: "L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:163:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L5"{standard input}:163:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:162:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L4"{standard input}:162:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:161:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L3"{standard input}:161:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:160:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L2"{standard input}:160:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NotasSViewController.textoEscrito$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NotasSViewController.texto$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_511(22@38"Comparison between pointer and integer278281313#113#117#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#31#0#31#0#0"0(4@20"Stray '#' in program278281313#230#97#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#32#0#32#0#20"stray '*' in program0(4@20"Stray '#' in program278281313#327#97#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#32#0#32#0#20"stray '*' in program0(4@49"Cannot find protocol declaration for 'statements'278281313#424#126#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#32#0#32#0#0"0(4@43"Expected identifier or '(' before '}' token278281313#550#120#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#33#0#33#0#19"expected * before *0(4@80"'shouldAutorotateToInterfaceOrientation' undeclared (first use in this function)278281313#670#157#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#35#0#35#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before ':' token278281313#1063#106#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#35#0#35#0#19"expected * before *0(4@49"Expected declaration or statement at end of input278281313#1169#126#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#58#0#58#0#49"expected declaration or statement at end of input0(4@49"Expected declaration or statement at end of input278281313#1295#126#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#58#0#58#0#49"expected declaration or statement at end of input0(23@13"At top level:278281313#1421#80#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#0#0#0#0#0"0(22@40"'@end' missing in implementation context278281313#1501#119#0(6@64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m278281310#58#0#58#0#40"'@end' missing in implementation context0(0#0#64"/Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m2416090432#1689"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch -c /Users/MatheusBrum/Desktop/NotasS/Classes/NotasSViewController.m -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/NotasSViewController.o1#
+
+CCompileC build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/main.o /Users/MatheusBrum/Desktop/NotasS/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278281312.990838
+e278281313.034822
+r1
+xCompileC
+xbuild/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/main.o
+x/Users/MatheusBrum/Desktop/NotasS/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/MatheusBrum/Desktop/NotasS/main.m278281312#278281313#0(0"0(0#0#40"/Users/MatheusBrum/Desktop/NotasS/main.m2416090432#1649"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch -c /Users/MatheusBrum/Desktop/NotasS/main.m -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+s278281312.080934
+e278281312.326444
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/NotasS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278281312#278281312#0(0"0(0#0#48"/Users/MatheusBrum/Desktop/NotasS/MainWindow.xib2416090432#450"    cd /Users/MatheusBrum/Desktop/NotasS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/MainWindow.nib /Users/MatheusBrum/Desktop/NotasS/MainWindow.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+s278281312.081462
+e278281312.449535
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib:10: warning: UITextView does not support data detectors when the text view is editable.
+lSLF07#2@35"CompileXIB NotasSViewController.xib278281312#278281312#0(188"/* com.apple.ibtool.document.warnings *//Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib:10: warning: UITextView does not support data detectors when the text view is editable.1(22@74"UITextView does not support data detectors when the text view is editable.278281312#4294967295#0#0(6@58"/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib278281307#10#0#10#0#0"0(0#0#58"/Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib2416090432#470"    cd /Users/MatheusBrum/Desktop/NotasS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/NotasSViewController.nib /Users/MatheusBrum/Desktop/NotasS/NotasSViewController.xib0#
+
+CCpResource build/Debug-iphoneos/NotasS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+s278281312.073067
+e278281312.078887
+r1
+xCpResource
+xbuild/Debug-iphoneos/NotasS.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist278281312#278281312#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist2416090432#469"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app.dSYM /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/NotasS
+r0
+
+CLd /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/NotasS normal armv6
+r0
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/Info.plist NotasS-Info.plist
+s278281312.073816
+e278281312.080870
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/Info.plist
+xNotasS-Info.plist
+lSLF07#2@25"Process NotasS-Info.plist278281312#278281312#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/NotasS/NotasS-Info.plist2416090432#538"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NotasS-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/ResourceRules.plist -o /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/Info.plist0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch.gch NotasS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s278281312.449639
+e278281312.990724
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch.gch
+xNotasS_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile NotasS_Prefix.pch278281312#278281312#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/NotasS/NotasS_Prefix.pch2416090432#1553"    cd /Users/MatheusBrum/Desktop/NotasS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-generated-files.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS-project-headers.hmap -F/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/DerivedSources -c /Users/MatheusBrum/Desktop/NotasS/NotasS_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotasS_Prefix-dlehcaergwuhrbgehsigakpobzif/NotasS_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/embedded.mobileprovision
+s278281313.073218
+e278281313.105308
+r1
+xProcessProductPackaging
+x/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision
+x/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" build/Debug-iphoneos/NotasS.app/embedded.mobileprovision278281313#278281313#0(0"0(0#0#90"/Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/embedded.mobileprovision2416090432#418"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" -o /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent
+s278281313.105411
+e278281313.143652
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+x/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent278281313#278281313#0(0"0(0#0#93"/Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent2416090432#419"    cd /Users/MatheusBrum/Desktop/NotasS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/MatheusBrum/Desktop/NotasS/build/NotasS.build/Debug-iphoneos/NotasS.build/NotasS.xcent0#
+
+CTouch /Users/MatheusBrum/Desktop/NotasS/build/Debug-iphoneos/NotasS.app
+r0
+

@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* NotasS */ = {
+		activeExec = 0;
+		executables = (
+			8467310410948EE800793A90 /* NotasS */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* NotasSViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 772}}";
+			sepNavSelRange = "{623, 0}";
+			sepNavVisRange = "{0, 892}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* NotasSViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2826, 2535}}";
+			sepNavSelRange = "{4136, 117}";
+			sepNavVisRange = "{3005, 1875}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8467310410948EE800793A90 /* NotasS */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NotasS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NotasS */,
+		);
+		breakpoints = (
+			8468BA481100C1CD003D0E04 /* NotasSViewController.m:30 */,
+		);
+		codeSenseManager = 8467311510948F0600793A90 /* Code sense */;
+		executables = (
+			8467310410948EE800793A90 /* NotasS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					447,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285262170;
+			PBXWorkspaceStateSaveDate = 285262170;
+		};
+		perUserProjectItems = {
+			841E311C10A913B600833B2B /* PBXTextBookmark */ = 841E311C10A913B600833B2B /* PBXTextBookmark */;
+			8467319C109514D200793A90 /* PBXTextBookmark */ = 8467319C109514D200793A90 /* PBXTextBookmark */;
+			8467319E109514D200793A90 /* PBXTextBookmark */ = 8467319E109514D200793A90 /* PBXTextBookmark */;
+			8468BB5E110104CF003D0E04 /* PBXTextBookmark */ = 8468BB5E110104CF003D0E04 /* PBXTextBookmark */;
+			8468BB5F110104CF003D0E04 /* PBXTextBookmark */ = 8468BB5F110104CF003D0E04 /* PBXTextBookmark */;
+			84E5362510A4D25300BEAEC6 /* PlistBookmark */ = 84E5362510A4D25300BEAEC6 /* PlistBookmark */;
+		};
+		sourceControlManager = 8467311410948F0600793A90 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	841E311C10A913B600833B2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NotasSViewController.h */;
+		name = "NotasSViewController.h: 25";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 892;
+		vrLoc = 0;
+	};
+	8467310410948EE800793A90 /* NotasS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NotasS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8467311410948F0600793A90 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8467311510948F0600793A90 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8467319C109514D200793A90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8467319D109514D200793A90 /* UITextField.h */;
+		name = "UITextField.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1838;
+		vrLoc = 0;
+	};
+	8467319D109514D200793A90 /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h;
+		sourceTree = "<absolute>";
+	};
+	8467319E109514D200793A90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8467319F109514D200793A90 /* UITextView.h */;
+		name = "UITextView.h: 81";
+		rLen = 55;
+		rLoc = 2506;
+		rType = 0;
+		vrLen = 1871;
+		vrLoc = 0;
+	};
+	8467319F109514D200793A90 /* UITextView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextView.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h;
+		sourceTree = "<absolute>";
+	};
+	8468BA481100C1CD003D0E04 /* NotasSViewController.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NotasSViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 30;
+		modificationTime = 285262285.265653;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	8468BB5E110104CF003D0E04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NotasSViewController.m */;
+		name = "NotasSViewController.m: 26";
+		rLen = 0;
+		rLoc = 876;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 368;
+	};
+	8468BB5F110104CF003D0E04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NotasSViewController.m */;
+		name = "NotasSViewController.m: 128";
+		rLen = 117;
+		rLoc = 4136;
+		rType = 0;
+		vrLen = 1875;
+		vrLoc = 3005;
+	};
+	84E5362510A4D25300BEAEC6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NotasS-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Open Source/NotasS/NotasS-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}
